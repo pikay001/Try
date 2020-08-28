@@ -8,6 +8,13 @@ public class TestAndTryMavenStsApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(TestAndTryMavenStsApplication.class, args);
+		
+		
+		
+		System.out.println("****************");
+		
+		
+		
 	}
 
 }
