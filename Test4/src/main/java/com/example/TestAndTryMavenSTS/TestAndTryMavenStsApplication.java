@@ -12,7 +12,8 @@ public class TestAndTryMavenStsApplication {
 		
 		
 		System.out.println("****************");
-		
+		System.out.println("****************");
+		System.out.println("****************");
 		
 		
 	}
